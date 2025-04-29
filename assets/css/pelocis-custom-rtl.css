@@ -1,0 +1,64 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.contact__input-box .bootstrap-select .dropdown-menu,
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.main-footer__shape-2,
+.main-slider-one__bg,
+.main-slider-one__carousel.owl-carousel .owl-nav button span,
+.feature-one .feature-card__link i,
+.about-one__content__box::after,
+.service-one-home .home-services__card__hover-link i,
+.service-one-home .home-services__card__link,
+.call-area-one__left-shape img,
+.call-area-one__right-shape img,
+.projects-one__card__hover-lg-link i,
+.projects-one__card__hover-sm-link i,
+.home-contact-one .home-contact__card__shape-two,
+.pelocis-btn i,
+.blog-card__link i {
+  transform: scaleX(-1);
+}
+
+.home-contact-one .home-contact__card__list__shape {
+  clip-path: polygon(100% 0, 0 50%, 100% 100%);
+}
+
+.projects-one__card__hover-sm-mask,
+.projects-one__card__hover-lg-mask {
+  clip-path: polygon(100% 0, 100% 100%, 13% 100%, 0 50%, 13% 0);
+}
+
+.testimonials-one .slick-list {
+  direction: ltr;
+}
+
+.testimonials-card__top {
+  direction: rtl;
+  display: flex;
+  border: none;
+}
+
+.main-footer__shape-2 {
+  animation: none;
+}
+/*# sourceMappingURL=pelocis-custom-rtl.css.map */

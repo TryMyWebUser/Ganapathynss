@@ -1,0 +1,89 @@
+body,
+.donations-three__item,
+body.boxed-wrapper .page-wrapper {
+  background-color: var(--pelocis-black);
+}
+
+.feature-one__wrapper,
+.about-one__content__box,
+.service-one-home,
+.why-choose-one__list__icon,
+.call-area-one,
+.projects-one,
+.newsletter,
+.blog-one {
+  background-color: var(--pelocis-black3);
+}
+
+.feature-one .feature-card__link,
+.feature-one .feature-card__title,
+.about-one__content__box-right ul li,
+.about-one .service-details__card__list li span,
+.why-choose-one__list__item-one ul li span,
+.why-choose-one__list__item-one ul li,
+.team-two__card__name,
+.projects-one__filter__list li,
+.business-solutions .business-solutions__card .video-popup i,
+.business-solutions .business-solutions__card .video-popup,
+.business-solutions .business-solutions__card__list li,
+.blog-card__link--dark,
+.blog-card__meta li i,
+.sec-title__title,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--pelocis-white);
+}
+
+.feature-one .feature-card__text,
+.about-one .service-details__card__list li,
+.about-one__text,
+.why-choose-one__text,
+.why-choose-one__list__text,
+.team-two__card__designation,
+.business-solutions .business-solutions__card__text,
+.blog-card__meta li,
+.blog-card__text {
+  color: rgba(var(--pelocis-white-rgb), 0.7);
+}
+
+.why-choose-one__list__item,
+.why-choose-one__list__item-one,
+.why-choose-one__list,
+.team-two__card__content,
+.blog-card__content {
+  border-color: rgba(var(--pelocis-white-rgb), 0.2);
+}
+
+.brand-one__divider {
+  background-color: rgba(var(--pelocis-white-rgb), 0.2);
+}
+
+.blog-card:hover .blog-card__content {
+  background-color: var(--pelocis-black);
+  border-color: var(--pelocis-black);
+}
+
+.about-one__content__box-right ul li span,
+.pelocis-btn::after {
+  background-color: var(--pelocis-white);
+}
+
+.about-one__content__box-right ul li span,
+.pelocis-btn:hover {
+  color: var(--pelocis-black);
+}
+
+.business-solutions .business-solutions__card .video-popup i {
+  border-color: var(--pelocis-white);
+}
+
+.service-one-home__shape-one,
+.service-one-home__shape-two,
+.service-one-home__shape-three {
+  opacity: 0.2;
+}
+/*# sourceMappingURL=pelocis-dark.css.map */

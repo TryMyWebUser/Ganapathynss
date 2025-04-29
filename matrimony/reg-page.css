@@ -1,0 +1,44 @@
+body{margin:0px; padding:0px; background:#fff; font-family:Arial, Helvetica, sans-serif; }
+h1 h2 h3 h4 h5 h6 ul li{ margin:0px; padding:0px; font-family:Arial, Helvetica, sans-serif;}
+*{font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.reg_wrapper{width:960px; height:auto; margin:auto; background:#fff;}
+.reg_wrapper h1{font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#666; margin:0 0 5px 0;}
+.reg_wrapper p{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#999; margin:0 0 20px 0;}
+#Reg_form{width:924px; height:auto; padding-top: 10px; padding-right: 10px; padding-bottom: 0px; padding-left: 10px; margin:auto; font-family:Arial, Helvetica, sans-serif; font-weight:bold; border:8px solid #eeeeee; color:#999; }
+.Reg_form_tbl{width:860px; height:auto; margin:auto auto 10px auto; padding:10px; font-family:Arial, Helvetica, sans-serif; font-weight:bold; border:1px solid #f7f5da; background:url("bg.jpg") repeat-x; color:#999; border-radius:5px; }
+.Reg-banner{width:944px; height:150px; background:#fff; border-top:8px solid #eeeeee; border-right:8px solid #eeeeee; border-left:8px solid #eeeeee; }
+.banner-head{ width:250px; height:20px; float:left; font-family:Arial, Helvetica, sans-serif; color:#09c; font-size:18px; padding:10px 0 5px 25px;}
+.banner-head-1{ width:250px; height:20px; float:right; font-family:Arial, Helvetica, sans-serif; color:#09c; font-size:14px; padding:10px 30px 5px 0; text-align:right; font-weight:bold;}
+.Reg-banner-image{width:880px; height:85px; margin:5px 20px 0 25px; border:1px solid #ccc; border-radius:5px; padding:5px; float:left;}
+
+
+.content_bottom_right #Reg_form {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #666; }
+#Reg_form #form1 table tr td #Select menu{background-color:#eeeeee; border: 1px solid #d1d1d1; border-radius:5px; font-family: Verdana, Geneva, sans-serif; color: #666; }
+#Reg_form #form1 table tr td #textfield2 {background-color:#eeeeee; border: 1px solid #d1d1d1; border-radius:5px; font-family: Verdana, Geneva, sans-serif; color: #666;}
+#Reg_form #form1 table tr td #textarea {background-color:#eeeeee; border: 1px solid #d1d1d1; border-radius:5px; font-family: Verdana, Geneva, sans-serif; color: #666; }
+.Reg-head-wrapper{width:960px; height:105px; margin:0 auto}
+.Reg-head-logo{width:300px; height:101px; float:left; margin:0}
+.Reg-head-right{width:640px; height:50px; float:right; margin:40px 0 0 10px; background:url("head-ban-img.jpg") repeat-x; border-radius:3px;}
+.Reg-head-right-content{width:600px; height:25px; float:left; text-align:center; padding:15px 0 10px 0; margin:0 20px 0 20px; font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:16px; font-weight:bold; }
+
+.form_step1{width:900px; height:auto; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; margin:0px auto 5px auto; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:12px; 	border:1px solid #6666666; color:#666666; background:url("step.jpg") repeat-x; }
+.form_step1 h1{font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#F60; border-bottom:1px dotted #666;}
+
+.form_step1 span{color:#C00; margin:0 10px 0 10px; font-weight:normal; font-size:12px;}
+.nor{border:1px solid #ccc; border:#d1d1d1 1px solid; width:250px;}
+.nor-1{border:1px solid #ccc; border:#d1d1d1 1px solid; width:30px;}
+.nor-2{border:1px solid #ccc; border:#d1d1d1 1px solid; width:150px;}
+.nor-3{border:1px solid #ccc; border:#d1d1d1 1px solid; width:50px;}
+
+.err{border:1px solid #C00; width:250px; }
+.style90{text-align:right; font-size:16px;}
+.span{color:#F60; font-size:12px;}
+.style89{text-align:right; font-size:8px; text-align:left; color:#C00;}
+.style88{text-align:center; font-size:16px;}
+.style87{text-align:left; font-size:12px; font-weight:normal; line-height:20px;}
+
+.reg-footer{width:960px; height:20px; background:#fff; margin:10px auto 0 auto; font-family:Arial, Helvetica, sans-serif; font:12px; color:#666; text-align:center; padding-top:10px;}
+
+.header_wrapper_logo_main{width:300px; height:auto; float:left; margin:0}
+.header_wrapper_logo{width:291px; height:auto; float:left; margin:0}
+.header_wrapper_logo_name{width:291px; height:auto; float:left; margin:0 0 5px 0; font-family:Arial; color:#333; font-size:12px;}

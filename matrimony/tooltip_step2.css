@@ -1,0 +1,64 @@
+
+      div.tooltips 
+      {
+        position: relative;
+display: inline;
+  white-space:normal;
+    font-size:9px;
+    font-family:Times New Roman;
+    color:#000;
+}
+div.tooltips span {
+  position: absolute;
+  width:230px;
+  color: #000;
+
+  /*background: #67A817;*/
+  background:#fbf5e9;
+ /* border: 2px solid #44730c;*/
+ border: 1px solid #f84d2c;
+  height:auto;
+  line-height: 18px;
+  margin-left: 30px;
+  text-align:left;
+  visibility: hidden;
+   white-space:normal;
+  border-radius: 7px;
+    padding: 4px;
+  font-size:11px;
+ 
+}
+div.tooltips span:before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -10px;
+  width:auto;height:auto;
+   border-right: 10px solid #f84d2c;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  
+}
+div.tooltips span:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -8px;
+  width: 0; height: 0;
+  border-right: 8px solid #fbf5e9;
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+  white-space: normal;
+ 
+}
+div:hover.tooltips span {
+  visibility: visible;
+  opacity: 0.8;
+  left: 100%;
+  top: 50%;
+  margin-top: -24.5px;
+  margin-left: 15px;
+  z-index: 999;
+}

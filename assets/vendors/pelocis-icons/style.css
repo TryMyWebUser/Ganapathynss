@@ -1,0 +1,213 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon5dde.eot?e4piuu');
+  src:  url('fonts/icomoon5dde.eot?e4piuu#iefix') format('embedded-opentype'),
+    url('fonts/icomoon5dde.ttf?e4piuu') format('truetype'),
+    url('fonts/icomoon5dde.woff?e4piuu') format('woff'),
+    url('fonts/icomoon5dde.svg?e4piuu#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-faq:before {
+  content: "\e936";
+}
+.icon-domain-free:before {
+  content: "\e935";
+}
+.icon-double-quote-left:before {
+  content: "\e933";
+}
+.icon-double-quote-left-bordered:before {
+  content: "\e934";
+}
+.icon-call-3:before {
+  content: "\e932";
+}
+.icon-user:before {
+  content: "\e931";
+}
+.icon-quote-right:before {
+  content: "\e930";
+}
+.icon-social-care:before {
+  content: "\e92f";
+}
+.icon-email:before {
+  content: "\e92e";
+}
+.icon-play:before {
+  content: "\e92d";
+}
+.icon-specialized-areas:before {
+  content: "\e92c";
+}
+.icon-wave-shape:before {
+  content: "\e92b";
+}
+.icon-phone-call:before {
+  content: "\e92a";
+}
+.icon-family-life:before {
+  content: "\e924";
+}
+.icon-mental-health:before {
+  content: "\e925";
+}
+.icon-partnership:before {
+  content: "\e926";
+}
+.icon-idea:before {
+  content: "\e927";
+}
+.icon-hand:before {
+  content: "\e928";
+}
+.icon-cognitive:before {
+  content: "\e929";
+}
+.icon-awards:before {
+  content: "\e920";
+}
+.icon-planing:before {
+  content: "\e921";
+}
+.icon-customers:before {
+  content: "\e922";
+}
+.icon-succefull:before {
+  content: "\e923";
+}
+.icon-arrow-circle-check:before {
+  content: "\e91f";
+}
+.icon-faq1:before {
+  content: "\e91e";
+}
+.icon-chat_microphone:before {
+  content: "\e91d";
+}
+.icon-right-arrow-white:before {
+  content: "\e91c";
+}
+.icon-left-arrow-white:before {
+  content: "\e937";
+}
+.icon-arrow--right-black:before {
+  content: "\e91b";
+}
+.icon-location:before {
+  content: "\e919";
+}
+.icon-arrow-up:before {
+  content: "\e91a";
+}
+.icon-arrow-down:before {
+  content: "\e938";
+}
+.icon-arrow-left:before {
+  content: "\e939";
+}
+.icon-arrow-right:before {
+  content: "\e93a";
+}
+.icon-mail:before {
+  content: "\e918";
+}
+.icon-search:before {
+  content: "\e916";
+}
+.icon-cart:before {
+  content: "\e917";
+}
+.icon-arrow-small-down:before {
+  content: "\e900";
+}
+.icon-arrow-small-up:before {
+  content: "\e93b";
+}
+.icon-arrow-small-left:before {
+  content: "\e93c";
+}
+.icon-arrow-small-right:before {
+  content: "\e93d";
+}
+.icon-brain:before {
+  content: "\e901";
+}
+.icon-business-trip:before {
+  content: "\e902";
+}
+.icon-check:before {
+  content: "\e903";
+}
+.icon-circumflex-accent:before {
+  content: "\e904";
+}
+.icon-content-management:before {
+  content: "\e905";
+}
+.icon-cooperation:before {
+  content: "\e906";
+}
+.icon-feedback:before {
+  content: "\e907";
+}
+.icon-geometric:before {
+  content: "\e908";
+}
+.icon-hand1:before {
+  content: "\e909";
+}
+.icon-idea1:before {
+  content: "\e90a";
+}
+.icon-medal:before {
+  content: "\e90b";
+}
+.icon-mental-health1:before {
+  content: "\e90c";
+}
+.icon-pattern:before {
+  content: "\e90d";
+}
+.icon-psychology-1:before {
+  content: "\e90e";
+}
+.icon-sparkle:before {
+  content: "\e90f";
+}
+.icon-supporting:before {
+  content: "\e910";
+}
+.icon-telephone:before {
+  content: "\e911";
+}
+.icon-therapy:before {
+  content: "\e912";
+}
+.icon-trophy-1:before {
+  content: "\e913";
+}
+.icon-trophy:before {
+  content: "\e914";
+}
+.icon-world-grid:before {
+  content: "\e915";
+}
