@@ -48,7 +48,7 @@
                                 <ul class="list-styled footer-widget__links">
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About</a></li>
-                                    <li><a href="index.php">Matrimony</a></li>
+                                    <li><a href="matrimony/index.php">Matrimony</a></li>
                                     <li><a href="contact.php">Contact</a></li>
                                 </ul><!-- /.list-unstyled footer-widget__links -->
                             </div><!-- /.footer-widget -->

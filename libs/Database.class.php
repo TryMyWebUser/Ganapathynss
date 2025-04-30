@@ -11,16 +11,15 @@ class Database
             $server = "localhost";
             $username = "root";
             $password = "";
-            $dbname = "new1";
+            $dbname = "ganapathynss";
             // $server = "localhost";
-            // $username = "trymywebsites_ultra";
-            // $password = "ultra@2025";
-            // $dbname = "trymywebsites_ultradb";
+            // $username = "trymywebsites_nss";
+            // $password = "nss@2025";
+            // $dbname = "trymywebsites_nss";
 
             // create connection
             $connection = new mysqli($server, $username, $password, $dbname);
 
-            // Checking connection
             if ($connection->connect_error)
             {
                 die("Connection Failed: " . $connection->connect_error);
@@ -30,9 +29,8 @@ class Database
                 Database::$conn = $connection;
                 return Database::$conn;
             }
-
-            return Database::$conn;
         }
+        return Database::$conn; // Return the connection here.
     }
 }
 
